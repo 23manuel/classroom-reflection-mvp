@@ -1,0 +1,57 @@
+# Teacher Onboarding Guide
+
+## Welcome
+This tool is a classroom reflection journal. It is designed to support your teaching, not to monitor or judge your performance.
+
+There are no penalties for missed days and no comparison with other teachers.
+
+## What You Do Daily
+After each class, or at the end of the day, you record a short reflection for a class you taught.
+
+Daily input includes:
+- Class and subject
+- Number of students present
+- Participation level (low, medium, high)
+- Attentiveness level (low, medium, high)
+- Task given (if any)
+- Topic
+- Optional short note
+
+This should take less than two minutes.
+
+## What the Levels Mean
+Participation:
+- High means many students actively contributed
+- Medium means some interaction
+- Low means most students were passive
+
+Attentiveness:
+- High means students were mostly focused
+- Medium means attention came and went
+- Low means students were largely distracted
+
+There are no right or wrong answers. Be honest.
+
+## Weekly Reflection
+Once a week, you answer one simple question:
+"What worked this week?"
+
+This helps you reflect beyond numbers and capture teaching moments that data alone cannot show.
+
+## What the Dashboard Shows
+The dashboard shows:
+- Engagement trends over time
+- Simple charts by class and subject
+- Clear messages like "Doing fine", "Needs adjustment", or "Needs attention"
+
+These are meant to guide reflection, not to score you.
+
+## What This Tool Is Not
+- It is not an inspection tool
+- It is not used for grading teachers
+- It is not shared with other teachers
+- It is not used for punishment
+
+This is your personal teaching journal, supported by simple analytics.
+
+If anything feels unclear or stressful, stop and report it. The tool should make teaching lighter, not heavier.

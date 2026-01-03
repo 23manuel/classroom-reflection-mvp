@@ -1,0 +1,43 @@
+# Data Schema
+
+This project uses SQLite for local storage.
+
+## schools
+- school_id (TEXT, primary key)
+- school_name (TEXT)
+
+## teachers
+- teacher_id (TEXT)
+- school_id (TEXT)
+- teacher_name (TEXT)
+- created_at (TIMESTAMP)
+
+## classes
+- class_id (TEXT)
+- school_id (TEXT)
+- subject_id (TEXT)
+- class_size (INTEGER)
+
+## daily_reflections
+- id (INTEGER, primary key)
+- school_id (TEXT)
+- teacher_id (TEXT)
+- class_id (TEXT)
+- subject_id (TEXT)
+- session_date (DATE)
+- number_present (INTEGER)
+- participation_level (TEXT)
+- attentiveness_level (TEXT)
+- task_given (TEXT)
+- topic (TEXT)
+- note (TEXT)
+- cei_score (REAL)
+- created_at (TIMESTAMP)
+
+## weekly_reflections
+- id (INTEGER, primary key)
+- school_id (TEXT)
+- teacher_id (TEXT)
+- week (INTEGER)
+- reflection (TEXT)
+- created_at (TIMESTAMP)

@@ -1,0 +1,8 @@
+# Project Assumptions
+
+- Teachers submit at most one reflection per class per day
+- Missing days are allowed and expected
+- Exam periods may cause gaps in data
+- CEI is a reflection aid, not a performance score
+- Teachers work independently and cannot see each other’s data
+- Each school is isolated from others

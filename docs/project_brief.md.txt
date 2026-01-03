@@ -1,0 +1,36 @@
+# Project Brief: Classroom Reflection MVP
+
+## Background
+Secondary schools in Nigeria are crowded and understaffed. Teachers manage many classes daily, often covering for others. While schools focus on test results and exams, early signs of disengagement in the classroom are usually noticed first by teachers, but rarely documented in a structured way.
+
+Most existing academic analytics systems focus on predicting failure after performance has already dropped. That is often too late to make meaningful change.
+
+## The Problem
+Early warning systems for low-performing students usually rely on exam scores and report cards. These signals come late and do not capture what is happening daily inside the classroom. Teachers already notice when a class is drifting, distracted, or responding well, but there is no simple tool to help them record and reflect on this consistently.
+
+## Why Teachers
+Teachers are the first point of contact with classroom reality. They observe engagement, participation, and attention long before grades reflect problems. Supporting teachers with a lightweight reflection tool helps surface early patterns without adding stress or administrative burden.
+
+This project treats teachers as partners, not subjects of monitoring.
+
+## Why Early Reflection
+Instead of predicting failure at the end of the term, this system focuses on short, regular reflections that help teachers see patterns early. The goal is awareness, adjustment, and improvement while learning is still ongoing.
+
+It is reflection before prediction, not prediction after damage.
+
+## Pilot Scope
+- 5 secondary schools
+- Maximum of 10 teachers per school
+- One full academic term
+- Each teacher uses the tool independently
+- Schools and teachers are isolated from one another
+
+## What Success Looks Like
+After one full term:
+- Teachers consistently complete simple daily reflections
+- Teachers can clearly see engagement trends by class and subject
+- Teachers report that the tool helps them adjust teaching approach
+- Schools gain a clearer picture of classroom engagement patterns
+- Clean, structured data is available for future machine learning work
+
+This MVP is focused on functionality, sustainability, and real classroom impact.

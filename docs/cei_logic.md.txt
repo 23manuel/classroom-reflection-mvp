@@ -1,0 +1,29 @@
+# Class Engagement Index (CEI)
+
+CEI is a simple score between 0 and 100.
+
+It combines:
+- Attendance
+- Participation
+- Attentiveness
+
+## Scoring
+
+Participation:
+- High = 40
+- Medium = 25
+- Low = 10
+
+Attentiveness:
+- High = 40
+- Medium = 25
+- Low = 10
+
+Attendance:
+- (number_present / class_size) × 20
+- Maximum of 20 points
+
+## Final CEI
+CEI = Participation + Attentiveness + Attendance
+
+This score is used for reflection, not punishment.
